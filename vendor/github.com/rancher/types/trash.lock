@@ -1,0 +1,4 @@
+package: github.com/rancher/types
+import:
+- package: github.com/rancher/norman
+  version: 76d825608521a24007cfdb110d9b88d45c50d9c5
